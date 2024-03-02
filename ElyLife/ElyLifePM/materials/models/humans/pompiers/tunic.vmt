@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+$basetexture "models\humans\pompiers/Tunic.vtf"
+$bumpmap "models\humans\pompiers/TunicN.vtf"
+
+$phong 1
+$phongboost 0.5
+$phongfresnelranges "[0 0.1 0.4]"
+}

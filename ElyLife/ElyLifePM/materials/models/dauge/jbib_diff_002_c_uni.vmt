@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Dauge/jbib_diff_002_c_uni"
+	"$bumpmap" "models/Dauge/jbib_n"
+	"$phong" "1"
+//	"$phongexponent" "4"
+	"$phongalbedotint" "1"
+	"$phongboost" ".1"
+	"$phongfresnelranges"	"[.3 .5 15]"
+        "$lightwarptexture" 	"models/Dauge/Clothes_wrp"
+	"$phongexponenttexture" "models/Dauge/jbib_exp"
+}

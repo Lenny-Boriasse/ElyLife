@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$basetexture"             "models/weapons/v_models/arms/cagatt/sleeve_cagatt"
+	"$bumpmap"                 "models/weapons/v_models/arms/cagatt/sleeve_cagatt_normal"
+	"$envmap"                 "env_cubemap"
+	"$envmaptint" "[0.01 0.01 0.01]"
+	"$phong" "1"
+	"$phongexponent" "125"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[0.1 0.1 0.1]"
+	"$halflambert" "1"
+}

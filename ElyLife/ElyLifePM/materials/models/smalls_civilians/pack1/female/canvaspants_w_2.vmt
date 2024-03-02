@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/smalls_civilians/pack1/female/canvaspants_w_2"
+	"$bumpmap" "models/smalls_civilians/pack1/female/canvaspants_n"
+	"$surfaceprop" "Flesh"
+}

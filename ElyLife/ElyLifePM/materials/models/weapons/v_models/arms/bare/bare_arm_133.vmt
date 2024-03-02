@@ -1,0 +1,21 @@
+VertexLitGeneric
+{
+	"$basetexture"            models/weapons/v_models/arms/bare/bare_arm_133
+ 	"$bumpmap"                models/weapons/v_models/arms/bare/bare_arm_133_normal
+	"$phongwarptexture"       models/weapons/customization/materials/material_specwarp
+	"$fresnelrangestexture"   models/weapons/v_models/arms/bare/bare_arm_fresnelrange
+	"$basealphaenvmask"       1
+	"$rimlightboost"          1
+	"$rimlightexponent"       8
+	"$envmap"                 "env_cubemap"
+	"$envmaptint" "[0.01 0.01 0.01]"
+	"$phong" "1"
+	"$phongexponent" "125"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[0.1 0.1 0.1]"
+	"$halflambert" "1"
+
+	// Rim lighting parameters
+	"$rimlight" "1"	
+	"$rimlightexponent" "10"	
+}

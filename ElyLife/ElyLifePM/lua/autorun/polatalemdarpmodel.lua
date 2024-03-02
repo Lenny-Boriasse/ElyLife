@@ -1,0 +1,2 @@
+player_manager.AddValidModel( "POLAT ALEMDAR", "models/player/kvkarakter/polat_alemdar.mdl" )
+player_manager.AddValidHands( "POLAT ALEMDAR", "models/player/kvkarakter/polat_alemdar_eller.mdl", 0, "00000000" )

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\f_gend_01_960/uppr"
+	"$halflambert" 1
+}

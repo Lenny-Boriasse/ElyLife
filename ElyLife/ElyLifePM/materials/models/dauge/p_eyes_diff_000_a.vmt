@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Dauge/p_eyes_diff_000_a"
+	"$nocull"			 "1"
+	"$model" 	1
+
+	"$envmap"		"env_cubemap"
+	"$envmapcontrast"		"6.0"
+	"$envmaptint"		"[1 1 1]"
+	"$envmapsaturation"	"[0.1 0.1 0.1]"
+
+	"$translucent"		"1"
+}

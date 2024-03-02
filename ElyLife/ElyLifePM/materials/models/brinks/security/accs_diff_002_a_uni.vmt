@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Models\brinks\Security/accs_diff_002_a_uni"
+	"$bumpmap"     "Models\brinks\Security\accs_diff_000_normal"
+}

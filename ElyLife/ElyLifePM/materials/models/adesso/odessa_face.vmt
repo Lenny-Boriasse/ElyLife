@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/adesso/odessa_face"
+	"$bumpmap" "models/adesso/odessa_face_normal"
+	"$halflambert" 1
+}

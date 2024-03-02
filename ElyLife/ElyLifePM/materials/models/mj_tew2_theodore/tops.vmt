@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mj_tew2_theodore/tops"
+	"$bumpmap" "models/mj_tew2_theodore/tops_n"
+	
+
+	"$phong" "1" 
+	"$phongexponent" "1"
+	"$phongboost" "0.2"
+	"$phongfresnelranges"		"[0 0.5 1]"
+	"$phongwarptexture" "models/mj_tew2_theodore/lightwarp"
+               
+}
+

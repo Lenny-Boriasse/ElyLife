@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mj_tew2_theodore/hair"
+	"$bumpmap" "models/mj_tew2_theodore/hair_n"
+
+	"$color2" "[0.85 0.85 0.85]"
+	
+	"$alphatest" "1"
+
+
+	"$phong" "1" 
+	"$phongexponent" "2"
+	"$phongboost" "0.05"
+	"$phongfresnelranges"		"[0 0.5 1]"
+
+               
+}
+

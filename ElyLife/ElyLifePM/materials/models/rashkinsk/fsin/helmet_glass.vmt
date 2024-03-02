@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/rashkinsk/fsin/helmet_glass"
+	"$halflambert" "1"
+        "$nocull" "1"
+}
+

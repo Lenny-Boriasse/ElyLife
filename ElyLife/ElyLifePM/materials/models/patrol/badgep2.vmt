@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\patrol/badgep2"
+	"$halflambert" "1"
+}

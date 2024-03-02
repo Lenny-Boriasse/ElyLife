@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models\brinks\Security/arms"
+	"$bumpmap" "Models\brinks\Security/arms_normal"
+}

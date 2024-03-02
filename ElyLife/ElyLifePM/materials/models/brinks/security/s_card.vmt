@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models\brinks\Security/s_card"
+$phong 1
+$phongboost 2
+$phongexponent 2
+$phongtint "[1 1 1]"
+$halflambert 0
+$phongfresnelranges "[.4 .8 30]"
+$ambientocclusion 1
+
+}

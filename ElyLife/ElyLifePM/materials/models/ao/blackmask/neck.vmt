@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\ao\blackMask\Shirt_Diff"
+	"$bumpmap" "models\ao\blackMask\Shirt_Normal"
+//	"$basemapalphaphongJacket" "1"
+
+	"$ambientocclusion" "0.9"
+
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "0.1"	
+//	"$lightwarptexture" "models\ao\blackJacket\pyro_lightwarp"
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "1"
+
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "4"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "2"		
+
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Dauge/hair_diff_004_f_uni"
+	"$alphatest" 1
+}

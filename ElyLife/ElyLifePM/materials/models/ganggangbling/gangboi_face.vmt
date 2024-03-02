@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{	
+	"$baseTexture" "models\ganggangbling\gangboi_face"
+	"$bumpmap" "models\ganggangbling\gangboi_head_normal"	
+}

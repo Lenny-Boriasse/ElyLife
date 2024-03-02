@@ -1,0 +1,16 @@
+"UnlitGeneric"
+
+{
+	"$basetexture" "models/player/slow/zeus_combine_v2/slow_fire"
+    	"$translucent" 1
+	"$model" 1
+
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+	 "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" 22.00
+     	}
+}

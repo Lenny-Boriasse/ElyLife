@@ -1,0 +1,25 @@
+"EyeRefract"
+{
+	"$iris" "models\jwk987\animal\riley\eye_l"
+	"$AmbientOcclTexture" "models\jwk987\animal\riley\shared\eye_ao"  // Ambient occlusion in RGB, A unused
+	"$Envmap"             "models\jwk987\animal\riley\shared/eye_cubemap"    // Reflection environment map
+	"$CorneaTexture"      "models\jwk987\animal\riley\shared\eye-cornea"                 // Special texture that has 2D cornea normal in RG and other data in BA
+
+	"$EyeballRadius" ".5"// Default 0.5
+	"$AmbientOcclColor" "[.3 .3 .3]"       // Default 0.33, 0.33, 0.33
+	"$Dilation" ".35"// Default 0.5
+	"$ParallaxStrength" ".05"          // Default 0.25
+	"$CorneaBumpStrength" ".8"// Default 1.0
+	
+	// These effects are only available in ps.2.0b and later
+	//"$RaytraceSphere" "0"// Default 1 - Enables raytracing in the pixel shader to make the eyeball look round
+	//"$SphereTexkillCombo" "0"// Default 1 - Enables killing pixels that don't ray-intersect the sphere
+
+        $halflambert 1
+        $nodecal 1
+ 
+        $RaytraceSphere 1	                      
+        $SphereTexkillCombo 1
+
+       
+}

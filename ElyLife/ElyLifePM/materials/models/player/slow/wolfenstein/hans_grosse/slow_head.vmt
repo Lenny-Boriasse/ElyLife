@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/wolfenstein/hans_grosse/slow_head"
+	"$bumpmap" "models/player/slow/wolfenstein/hans_grosse/slow_head_bump"
+
+ 	"$phong" "1"
+	"$phongexponent" "6"
+	"$phongboost"	"8"
+	"$phongfresnelranges"	"[.15 .45 1]"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\patrol/torso_longsleeve"
+	"$bumpmap" "models\patrol/torso_longsleeve_bump"
+	"$halflambert" "1"
+}

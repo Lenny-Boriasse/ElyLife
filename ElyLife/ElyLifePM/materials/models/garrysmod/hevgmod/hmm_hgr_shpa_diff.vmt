@@ -1,0 +1,25 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\garrysmod\hevgmod\HMM_HGR_SHPa_Diff"
+	"$bumpmap" "models\garrysmod\hevgmod\HMM_HGR_SHPa_Norm"
+
+	"$halflambert" "1"
+
+	"$phong" 1
+	"$phongboost" 0.04
+	"$phongexponent" 30
+	"$phongtint" "[1 .85 .85]"
+	"$phongfresnelranges" "[.5 .85 30]"
+	"$model" 1
+
+
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" "0.15"
+
+	$detail "models\garrysmod\hevgmod\HMM_HGR_SHPa_Blend"
+	$detailscale 1
+	$detailblendfactor "1.25"
+	$detailblendmode 5
+
+}

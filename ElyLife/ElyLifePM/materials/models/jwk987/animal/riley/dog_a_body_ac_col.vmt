@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\jwk987\animal\riley\dog_a_body_ac_col"
+	"$bumpmap"		"models\jwk987\animal\riley\dog_a_body_a_nml"		
+
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "6"
+	"$phongboost" "0.08"
+	"$phongalbedotint" "1"
+	"$phongtint" "[1 .95 .95]"
+	"$phongfresnelranges"	"[0.5 6 10]"
+	"$halflambert" "1"
+	"$nocull" 1
+
+}

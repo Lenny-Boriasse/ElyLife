@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+$basetexture "Models\brinks\Security\vest"
+$bumpmap "models\Union\rtb_police\boots_n"
+$nocull "1"
+
+$phong "1"
+$phongboost ".5"
+$phongexponent "10"
+$halflambert 0
+$phongfresnelranges "[1 1 10]"
+$ambientocclusion 1
+
+$rimlight "0"	
+$rimlightexponent "5"
+$rimlightboost ".05"
+}

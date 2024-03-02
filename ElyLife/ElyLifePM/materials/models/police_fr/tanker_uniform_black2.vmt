@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models\police_fr\Tanker_Uniform_Black2"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$surfaceprop" "flesh"
+       	"$nocull" 1
+}

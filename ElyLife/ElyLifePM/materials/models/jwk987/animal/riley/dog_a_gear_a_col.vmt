@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\jwk987\animal\riley\dog_a_gear_a_col"
+	"$bumpmap"		"models\jwk987\animal\riley\dog_a_gear_a_nml"	
+	//"$nocull" 1
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "8"
+	"$phongboost" ".5"	
+	"$phongfresnelranges"	"[.05 0.1 0.3]"
+	"$halflambert" "1"
+	"$nocull" 1
+
+//$detail "models\jwk987\GTAV\franklin\fabricshirtdetail"
+$detailscale 16
+$detailblendfactor 1.7
+$detailblendmode 0
+}

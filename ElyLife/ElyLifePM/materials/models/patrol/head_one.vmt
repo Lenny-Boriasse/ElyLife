@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\patrol/head_one"
+	"$bumpmap" "models\patrol/head_one_bump"
+	"$halflambert" "1"
+}

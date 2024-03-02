@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\humans\pompiers/gear"
+	"$bumpmap" "models\humans\pompiers/gear_bump"
+	"$halflambert" "1"
+}

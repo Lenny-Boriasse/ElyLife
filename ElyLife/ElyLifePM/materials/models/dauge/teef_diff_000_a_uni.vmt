@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Dauge/teef_diff_000_a_uni"
+	"$bumpmap" "models/Dauge/teef_n"
+	"$phong" "1"
+	"$phongalbedotint" "0"
+	"$phongboost" "1.5"
+	"$phongfresnelranges"	"[.3 .5 15]"
+        "$lightwarptexture" 	"models/Dauge/Clothes_wrp"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.75 0.6 .1]"
+$normalmapalphaenvmapmask 1
+}

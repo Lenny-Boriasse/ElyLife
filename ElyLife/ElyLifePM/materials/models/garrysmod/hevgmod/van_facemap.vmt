@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\garrysmod\HEVGmod/van_facemap"
+	"$bumpmap" "models\garrysmod\HEVGmod/normalmap_flat"
+	"$halflambert" 1
+}

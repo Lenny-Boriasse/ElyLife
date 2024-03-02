@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models/RAID/RAID_Shared/head"
+	"$bumpmap"	"models/RAID/RAID_Shared/head_n"
+
+	"$surfaceprop"	"flesh"
+	"$model"		1
+	"$halflambert"	"1"
+}

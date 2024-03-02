@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/sentry/korlit/uppr_diff_002_b_uni"
+	"$bumpmap" "models\sentry\korlit\uppr_normal_002"
+	"$phongexponenttexture" "models\sentry\korlit\uppr_spec_002"
+	"$surfaceprop" "flesh"
+	"$model" 1
+	"$nocull" 1
+
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "0.05"	
+	"$phongfresnelranges"	"[.1 0.2 1]"
+	"$halflambert" "1"
+
+
+	"$rimlight" "1"										
+	"$rimlightexponent" "20"							
+	"$rimlightboost" "0.1"
+	
+}

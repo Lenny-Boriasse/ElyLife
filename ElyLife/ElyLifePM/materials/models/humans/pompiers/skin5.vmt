@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\humans\pompiers/skin5"
+	"$halflambert" 1
+}

@@ -1,0 +1,15 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/player/slow/zeus_combine_v2/slow_panzer_oberarm_l"
+	"$bumpmap"	"models/player/slow/zeus_combine_v2/slow_panzer_oberarm_l_bump"
+	"$halflambert" 1
+	"$selfillum" 1
+
+	"$envmap" "models/player/slow/zeus_combine_v2/slow_chrome_spec"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[1 1 1]" 
+	"$envmapcontrast" 0.2
+	"$envmapsaturation" 0.4
+}
+
+

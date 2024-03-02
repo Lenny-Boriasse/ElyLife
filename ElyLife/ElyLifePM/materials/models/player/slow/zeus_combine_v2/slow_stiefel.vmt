@@ -1,0 +1,14 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/player/slow/zeus_combine_v2/slow_zeus_combine"
+	"$bumpmap"	"models/player/slow/zeus_combine_v2/slow_zeus_combine_bump"
+	"$halflambert" 1
+
+ 	"$phong" "1"
+	"$phongexponent" "4"
+	"$phongboost"	"0.04"
+	"$phongfresnelranges"	"[1 1 1]"
+	"$phongalbedotint" "1"
+}
+
+

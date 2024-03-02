@@ -1,0 +1,1 @@
+player_manager.AddValidModel( "[HEXED]Safety Odessa", "models/snowred/dab9595/hex/odessa.mdl" );

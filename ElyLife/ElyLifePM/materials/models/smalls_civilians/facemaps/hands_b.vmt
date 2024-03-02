@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\smalls_civilians\facemaps\hands_b"
+    "$bumpmap" "models\smalls_civilians\facemaps\hands_n2"
+	"$halflambert" 1
+	"$nocull" 1
+
+    "$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "2"	
+	"$phongfresnelranges"	"[.1 0.2 1]"
+}

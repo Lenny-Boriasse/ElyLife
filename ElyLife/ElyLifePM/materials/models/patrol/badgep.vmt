@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\patrol/badgep"
+                "$bumpmap" "models\patrol/gear_bump"
+	"$halflambert" 1
+}

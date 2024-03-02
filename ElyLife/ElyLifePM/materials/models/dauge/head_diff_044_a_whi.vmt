@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Dauge/head_diff_044_a_whi"
+	"$bumpmap" "models/Dauge/head_n"
+        "$lightwarptexture" 	"models/Dauge/Base_M_caucasian_wrp"
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "9"
+	"$phongboost"	"0.2"
+	"$phongfresnelranges"	"[.5 3 48]"
+	"$phongexponenttexture" "models/Dauge/head_exp"
+}

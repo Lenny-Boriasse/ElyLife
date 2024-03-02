@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/k9_unit_mat/sheriff"
+                  $bumpmap "models/k9_unit_mat/k9_vest_bmp"
+
+}
+

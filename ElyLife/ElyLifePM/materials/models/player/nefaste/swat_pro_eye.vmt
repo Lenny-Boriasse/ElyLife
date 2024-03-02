@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/nefaste/swat_pro_eye"
+	"$halflambert" 1
+	"$nodecal" 1
+}

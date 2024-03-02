@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/RAID/RAID_Shared/citizen_sheet"
+	"$halflambert" 1
+}

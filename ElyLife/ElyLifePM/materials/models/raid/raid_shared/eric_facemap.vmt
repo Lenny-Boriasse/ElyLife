@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/RAID/RAID_Shared/eric_facemap"
+	"$halflambert" 1
+}

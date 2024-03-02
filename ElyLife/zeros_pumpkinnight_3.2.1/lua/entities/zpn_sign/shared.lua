@@ -1,0 +1,9 @@
+ENT.Type = "anim"
+ENT.Base = "base_anim"
+ENT.AutomaticFrameAdvance = true
+ENT.Model = "models/zerochain/props_pumpkinnight/zpn_sign.mdl"
+ENT.Spawnable = true
+ENT.AdminSpawnable = false
+ENT.PrintName = "Anti Ghost Sign"
+ENT.Category = "Zeros PumpkinNight"
+ENT.RenderGroup = RENDERGROUP_OPAQUE

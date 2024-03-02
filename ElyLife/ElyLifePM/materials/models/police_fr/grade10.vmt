@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "\models\police_fr\grade10"
+	"$halflambert" 1
+}

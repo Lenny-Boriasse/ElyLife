@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models/RAID/RAID_Shared/eyeball_l"
+	"$iris" "models/RAID/RAID_Shared/pupil_l"
+	"$halflambert" 1
+}

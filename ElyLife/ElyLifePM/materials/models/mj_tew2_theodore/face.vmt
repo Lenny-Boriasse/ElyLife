@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mj_tew2_theodore/face"
+	"$bumpmap" "models/mj_tew2_theodore/face_n"
+	
+	"$color2" "[0.95 0.95 0.95]"
+	
+	"$halflambert" "1"
+
+
+	"$phong" "1" 
+	"$phongexponent" "0.5"
+	"$phongboost" "0.25"
+	"$phongfresnelranges"		"[0 0.5 1]"
+	"$phongwarptexture" "models/mj_tew2_theodore/lightwarp_c"
+               
+}
+

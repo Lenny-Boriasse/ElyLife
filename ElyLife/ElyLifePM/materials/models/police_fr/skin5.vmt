@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/police_fr/skin5"
+	"$translucent" 1
+}

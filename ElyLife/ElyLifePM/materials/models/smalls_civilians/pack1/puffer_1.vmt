@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/smalls_civilians/pack1/puffer_1"
+	"$bumpmap" "models/smalls_civilians/pack1/puffer_n"
+	"$surfaceprop" "Flesh"
+
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\smalls_civilians\facemaps\joey_facemap"
+	"$bumpmap"     "models\smalls_civilians\facemaps\joey_facemap_n"
+	"$halflambert" 1
+
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\police_fr/arms"
+	"$bumpmap" "models\police_fr/arms_normal"
+}

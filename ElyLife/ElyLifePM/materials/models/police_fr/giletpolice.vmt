@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/police_fr/giletpolice"
+	"$bumpmap" "models\police_fr/giletpolice_bump"
+	"$halflambert" 1
+}

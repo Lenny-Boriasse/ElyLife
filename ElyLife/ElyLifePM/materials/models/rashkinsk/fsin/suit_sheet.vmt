@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/rashkinsk/fsin/suit_sheet"
+	"$bumpmap" "models/rashkinsk/fsin/suit_sheet_nml"
+	"$halflambert" "1"
+        "$nocull" "1"
+}
+

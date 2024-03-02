@@ -1,0 +1,10 @@
+{
+  "title": "ElylifePM",
+  "type": "ServerContent",
+  "tags": [
+    "roleplay"
+  ],
+  "ignore": [
+    "*.tga"
+  ]
+}

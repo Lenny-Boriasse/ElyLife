@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{	
+	"$baseTexture" "models\ganggangbling\gangboi_shirt"
+	"$bumpmap" "models\ganggangbling\gangboi_torso_normal"	
+}

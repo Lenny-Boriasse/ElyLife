@@ -1,0 +1,9 @@
+"unlitgeneric"
+{
+	"$baseTexture" "models/player/slow/zeus_combine_v2/slow_lights"
+	"$nocull" 1
+	"$translucent" 1
+	"$model" 1
+}
+
+

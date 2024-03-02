@@ -1,0 +1,14 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" 	"models/player/slow/zeus_combine_v2/slow_zeus_combine"
+	"$bumpmap"	"models/player/slow/zeus_combine_v2/slow_zeus_combine_bump"
+	"$halflambert" 1
+
+	"$envmap" "models/player/slow/zeus_combine_v2/slow_chrome_spec"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[.8 .8 .8]" 
+	"$envmapcontrast" 1
+	"$envmapsaturation" 0.4
+}
+
+

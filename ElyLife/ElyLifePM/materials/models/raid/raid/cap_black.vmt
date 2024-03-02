@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models/RAID/RAID/CAP_BLACK"
+	 "$bumpmap" 			"models/RAID/RAID_Shared/CAP_BLACK_n"
+
+	"$model" 1
+	"$surfaceprop" "carpet"
+	"$halflambert" 1
+}

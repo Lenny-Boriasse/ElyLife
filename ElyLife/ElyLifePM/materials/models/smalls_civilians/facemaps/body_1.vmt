@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/smalls_civilians/facemaps/body_1"
+	"$surfaceprop" "Flesh"
+
+}

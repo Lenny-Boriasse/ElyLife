@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models\brinks\Male\sandro_facemap2"
+	"$halflambert" 1
+	"$nocull" 1
+}

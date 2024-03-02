@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/adesso/hat"
+	"$bumpmap" "models/adesso/hat_normal"
+	"$halflambert" 1
+}

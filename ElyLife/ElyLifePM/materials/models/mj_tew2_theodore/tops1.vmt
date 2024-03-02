@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mj_tew2_theodore/tops1"
+	"$bumpmap" "models/mj_tew2_theodore/tops1_n"
+	
+	"$color2" "[0.8 0.8 0.8]" 
+
+	$detail models/mj_tew2_theodore/denim_detail
+	$detailscale 25
+	$detailblendfactor 0.8
+	$detailblendmode 0
+
+	"$phong" "1" 
+	"$phongexponent" "3"
+	"$phongboost" "0.2"
+	"$phongfresnelranges"		"[0 0.5 1]"
+               
+}
+

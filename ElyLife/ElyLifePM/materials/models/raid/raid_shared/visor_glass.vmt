@@ -1,0 +1,13 @@
+"vertexlitgeneric"
+{
+	"$baseTexture"	"models/RAID/RAID_Shared/VISOR_glass"
+	"$envmapmask" 	"models/RAID/RAID_Shared/VISOR_glass_spec"
+
+	"$envmap" 	"env_cubemap"
+
+	"$translucent" 1
+	"$nocull" 1
+
+	
+	
+}

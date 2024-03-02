@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/smalls_civilians/pack1/undershirt_1"
+	"$surfaceprop" "Flesh"
+
+}

@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\police_fr/Zapper_Visor"
+	"$bumpmap" "models\police_fr/Zapper_Visor_Normal"	
+	"$translucent" "1"
+	"$nocull" "1"
+	"$ambientocclusion" "0"
+
+	"$envmap" "models\gend_01/killy"					
+	"$envmaptint" "[0.06 0.06 0.06]"				
+ 	"$envmapFresnel"  "[1.4] "
+
+	"$color2" "[0.5 0.5 0.5]"
+
+	"$phong" "1"						
+	"$phongboost"	"20" 		
+	"$phongexponent" "50"		
+
+	"$phongfresnelranges"	"[0.22 0.856 20]"			
+	"$phongtint" 			"[1 1 1]"			
+	"$PhongAlbedoTint" "1"
+}

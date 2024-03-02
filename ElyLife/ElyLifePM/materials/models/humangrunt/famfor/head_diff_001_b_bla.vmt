@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/humangrunt/famfor/head_diff_001_b_bla"
+	"$bumpmap" "models/humangrunt/famfor/head_normal_000"
+	
+	$phong 1
+	$phongexponent 0
+	$phongexponenttexture "models/humangrunt/famfor/head_spec_000"
+	$phongboost	0.2
+	$phongfresnelranges	"[0.06 0.5 15]"
+}

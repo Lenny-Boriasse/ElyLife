@@ -1,0 +1,13 @@
+"VertexLitGeneric" 
+{
+	$basetexture				"models\cagatt\coat"
+	$bumpmap					"models\cagatt\coat_normal"
+	"$phong" "1"
+	"$phongBoost" "1"
+	"$phongTint" "[.25 .25 .25]"
+	"$phongFresnelRanges" "[.35 .35 .35]"
+	"$rimlight" "1"
+	"$rimlightexponent" "200"
+	"$rimlightboost" "1"
+"$nodecal" 1
+}

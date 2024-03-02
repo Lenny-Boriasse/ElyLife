@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture"            "models/cagatt/ctm_sas_head_gasmask_color"
+	"$bumpmap"                "models/cagatt/ctm_sas_head_gasmask_normal"
+	"$phongwarptexture"       "models/cagatt/shared/ctm_specwarp"
+	"$fresnelrangestexture"   "models/cagatt/shared/ctm_fresnelwarp"
+	"$phong" "1"
+	"$phongBoost" "1"
+	"$phongTint" "[.45 .45 .45]"
+	"$phongFresnelRanges" "[.5 .5 .5]"
+	"$rimlight" "1"
+	"$rimlightexponent" "50"
+	"$rimlightboost" "1"
+"$nodecal" 1
+}

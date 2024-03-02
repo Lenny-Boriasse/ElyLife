@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mj_tew2_theodore/teeth"
+	"$bumpmap" "models/mj_tew2_theodore/teeth_n"
+	
+	"$color2" "[0.8 0.8 0.8]"
+	
+	"$halflambert" "1"
+               
+}
+

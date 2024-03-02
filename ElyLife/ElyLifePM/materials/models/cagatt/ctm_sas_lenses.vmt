@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"            "models/cagatt/ctm_sas_lenses"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.5 0.5 0.5]"
+}

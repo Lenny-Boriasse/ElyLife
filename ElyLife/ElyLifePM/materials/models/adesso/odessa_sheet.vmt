@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/adesso/odessa_sheet"
+	"$bumpmap" "models/adesso/odessa_sheet_normal"
+}

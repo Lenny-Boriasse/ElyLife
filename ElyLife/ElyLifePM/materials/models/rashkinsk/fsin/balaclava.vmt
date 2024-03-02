@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/rashkinsk/fsin/balaclava_color"
+	"$bumpmap" "models/rashkinsk/fsin/balaclava"
+	"$halflambert" "0"
+                "$nocull" "1"
+}

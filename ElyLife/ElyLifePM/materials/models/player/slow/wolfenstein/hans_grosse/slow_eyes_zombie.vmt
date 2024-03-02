@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/wolfenstein/hans_grosse/slow_head_zombie"
+
+	"$selfillum" 1
+
+	"$envmap" 			"env_cubemap"
+	"$envmapmask" 		"models/player/slow/wolfenstein/hans_grosse/slow_head_zombie"
+	"$envmaptint" 		"[1 .8 .8]" 
+	"$envmapcontrast" 	".8"
+	"$envmapsaturation" 	".95"
+}

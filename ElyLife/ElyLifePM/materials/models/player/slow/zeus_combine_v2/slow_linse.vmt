@@ -1,0 +1,23 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/player/slow/zeus_combine_v2/slow_linse"
+	"$bumpmap" 	"models/player/slow/zeus_combine_v2/slow_linse_bump"
+	"$model" 1
+	"$halflambert" 1
+	"$selfillum" 1
+
+	"$envmap" "env_cubemap" 
+	"$envmaptint" "[1 1 1]" 
+	"$envmapcontrast" 0.7 
+	"$envmapsaturation" 1.3 
+
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+	 "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" 21.00
+     	}
+}
+

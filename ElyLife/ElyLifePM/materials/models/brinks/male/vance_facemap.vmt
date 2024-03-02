@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "Models\brinks\Male\vance_facemap"
+	"$envmapsphere" 1
+	"$halflambert" 1
+}
